@@ -1,0 +1,664 @@
+{
+    "latest": "7.2.3.1",
+    "7.2.3.1": {
+        "ironSource": {
+            "UnityAdapterVersion": "7.2.3.1",
+            "AndroidSDKVersion": "7.2.3.1",
+            "iOSSDKVersion": "7.2.3.1",
+            "keyname": "ironSource"
+        },
+        "AdColony": {
+            "UnityAdapterVersion": "4.3.17.2",
+            "AndroidAdapterVersion": "4.3.12",
+            "AndroidSDKVersion": "4.7.1",
+            "iOSAdapterVersion": "4.3.14",
+            "iOSSDKVersion": "4.8.0",
+            "keyname": "AdColony"
+        },
+        "AppLovin": {
+            "UnityAdapterVersion": "4.3.37",
+            "AndroidAdapterVersion": "4.3.33",
+            "AndroidSDKVersion": "11.4.4",
+            "iOSAdapterVersion": "4.3.33",
+            "iOSSDKVersion": "11.4.3",
+            "keyname": "AppLovin"
+        },
+        "Chartboost": {
+            "UnityAdapterVersion": "4.3.13.8",
+            "AndroidAdapterVersion": "4.3.8",
+            "AndroidSDKVersion": "8.3.1",
+            "iOSAdapterVersion": "4.3.10",
+            "iOSSDKVersion": "8.5.0",
+            "keyname": "Chartboost"
+        },
+        "Fyber": {
+            "UnityAdapterVersion": "4.3.29.2",
+            "AndroidAdapterVersion": "4.3.21",
+            "AndroidSDKVersion": "8.1.5",
+            "iOSAdapterVersion": "4.3.24",
+            "iOSSDKVersion": "8.1.5",
+            "keyname": "Fyber"
+        },
+        "Google (AdMob and Ad Manager)": {
+            "UnityAdapterVersion": "4.3.40",
+            "AndroidAdapterVersion": "4.3.29",
+            "AndroidSDKVersion": "21.0.0",
+            "iOSAdapterVersion": "4.3.34",
+            "iOSSDKVersion": "9.7.0",
+            "keyname": "Google (AdMob and Ad Manager)"
+        },
+        "HyprMX": {
+            "UnityAdapterVersion": "4.3.0.2",
+            "AndroidAdapterVersion": "4.3.0",
+            "AndroidSDKVersion": "6.0.2",
+            "iOSAdapterVersion": "4.3.0",
+            "iOSSDKVersion": "6.0.1",
+            "keyname": "HyprMX"
+        },
+        "InMobi": {
+            "UnityAdapterVersion": "4.3.17.4",
+            "AndroidAdapterVersion": "4.3.14",
+            "AndroidSDKVersion": "10.0.5",
+            "iOSAdapterVersion": "4.3.14",
+            "iOSSDKVersion": "10.0.5",
+            "keyname": "InMobi"
+        },
+        "Liftoff": {
+            "UnityAdapterVersion": "4.3.5.4",
+            "AndroidAdapterVersion": "4.3.4",
+            "AndroidSDKVersion": "1.9.1",
+            "iOSAdapterVersion": "4.3.2",
+            "iOSSDKVersion": "1.9.0",
+            "keyname": "Liftoff"
+        },
+        "Maio": {
+            "UnityAdapterVersion": "4.1.13.13",
+            "AndroidAdapterVersion": "4.1.10",
+            "AndroidSDKVersion": "1.1.15",
+            "iOSAdapterVersion": "4.1.10",
+            "iOSSDKVersion": "1.5.8",
+            "keyname": "Maio"
+        },
+        "Meta": {
+            "UnityAdapterVersion": "4.3.48.2",
+            "AndroidAdapterVersion": "4.3.36",
+            "AndroidSDKVersion": "6.11.0",
+            "iOSAdapterVersion": "4.3.36",
+            "iOSSDKVersion": "6.11.1",
+            "keyname": "Meta"
+        },
+        "MyTarget": {
+            "UnityAdapterVersion": "4.1.14.7",
+            "AndroidAdapterVersion": "4.1.13",
+            "AndroidSDKVersion": "5.15.0",
+            "iOSAdapterVersion": "4.1.13",
+            "iOSSDKVersion": "5.15.0",
+            "keyname": "MyTarget"
+        },
+        "Pangle": {
+          "UnityAdapterVersion": "4.3.18",
+          "AndroidAdapterVersion": "4.3.14",
+          "AndroidSDKVersion": "4.5.0.4",
+          "iOSAdapterVersion": "4.3.16",
+          "iOSSDKVersion": "4.5.2.3",
+          "keyname": "Pangle"
+        },
+        "Smaato": {
+            "UnityAdapterVersion": "4.3.6",
+            "AndroidAdapterVersion": "4.3.6",
+            "AndroidSDKVersion": "21.8.3",
+            "iOSAdapterVersion": "4.3.6",
+            "iOSSDKVersion": "21.7.6",
+            "keyname": "Smaato"
+        },
+        "Snap": {
+            "UnityAdapterVersion": "4.3.2.13",
+            "iOSAdapterVersion": "4.3.2",
+            "iOSSDKVersion": "1.1.0",
+            "keyname": "Snap"
+        },
+        "SuperAwesome": {
+            "UnityAdapterVersion": "4.1.3.9",
+            "AndroidAdapterVersion": "4.1.2",
+            "AndroidSDKVersion": "8.2.1",
+            "iOSAdapterVersion": "4.1.2",
+            "iOSSDKVersion": "8.1.1",
+            "keyname": "SuperAwesome"
+        },
+        "Tapjoy": {
+            "UnityAdapterVersion": "4.1.25",
+            "AndroidAdapterVersion": "4.1.21",
+            "AndroidSDKVersion": "12.10.0",
+            "iOSAdapterVersion": "4.1.20",
+            "iOSSDKVersion": "12.10.0",
+            "keyname": "Tapjoy"
+        },
+        "Tencent": {
+            "UnityAdapterVersion": "4.3.3.4",
+            "iOSAdapterVersion": "4.3.3",
+            "iOSSDKVersion": "4.13.63",
+            "keyname": "Tencent"
+        },
+        "UnityAds": {
+            "UnityAdapterVersion": "4.3.27",
+            "AndroidAdapterVersion": "4.3.22",
+            "AndroidSDKVersion": "4.3.0",
+            "iOSAdapterVersion": "4.3.23",
+            "iOSSDKVersion": "4.3.0",
+            "keyname": "UnityAds"
+        },
+        "Vungle": {
+            "UnityAdapterVersion": "4.3.27.3",
+            "AndroidAdapterVersion": "4.3.17",
+            "AndroidSDKVersion": "6.11.0",
+            "iOSAdapterVersion": "4.3.20",
+            "iOSSDKVersion": "6.11.0",
+            "keyname": "Vungle"
+        },
+        "Yahoo": {
+            "UnityAdapterVersion": "4.3.1.9",
+            "AndroidAdapterVersion": "4.3.0",
+            "AndroidSDKVersion": "1.14.0",
+            "iOSAdapterVersion": "4.3.1",
+            "iOSSDKVersion": "1.14.2",
+            "keyname": "Yahoo"
+        }
+    },
+    "7.2.3": {
+        "ironSource": {
+            "UnityAdapterVersion": "7.2.3",
+            "AndroidSDKVersion": "7.2.3",
+            "iOSSDKVersion": "7.2.3",
+            "keyname": "ironSource"
+        },
+        "AdColony": {
+            "UnityAdapterVersion": "4.3.17.1",
+            "AndroidAdapterVersion": "4.3.12",
+            "AndroidSDKVersion": "4.7.1",
+            "iOSAdapterVersion": "4.3.14",
+            "iOSSDKVersion": "4.8.0",
+            "keyname": "AdColony"
+        },
+        "AppLovin": {
+            "UnityAdapterVersion": "4.3.36.1",
+            "AndroidAdapterVersion": "4.3.32",
+            "AndroidSDKVersion": "11.4.2",
+            "iOSAdapterVersion": "4.3.32",
+            "iOSSDKVersion": "11.4.1",
+            "keyname": "AppLovin"
+        },
+        "Chartboost": {
+            "UnityAdapterVersion": "4.3.13.7",
+            "AndroidAdapterVersion": "4.3.8",
+            "AndroidSDKVersion": "8.3.1",
+            "iOSAdapterVersion": "4.3.10",
+            "iOSSDKVersion": "8.5.0",
+            "keyname": "Chartboost"
+        },
+        "Fyber": {
+            "UnityAdapterVersion": "4.3.29.1",
+            "AndroidAdapterVersion": "4.3.21",
+            "AndroidSDKVersion": "8.1.5",
+            "iOSAdapterVersion": "4.3.24",
+            "iOSSDKVersion": "8.1.5",
+            "keyname": "Fyber"
+        },
+        "Google (AdMob and Ad Manager)": {
+            "UnityAdapterVersion": "4.3.38.2",
+            "AndroidAdapterVersion": "4.3.28",
+            "AndroidSDKVersion": "20.6.0",
+            "iOSAdapterVersion": "4.3.32",
+            "iOSSDKVersion": "9.5.0",
+            "keyname": "Google (AdMob and Ad Manager)"
+        },
+        "HyprMX": {
+            "UnityAdapterVersion": "4.3.0.1",
+            "AndroidAdapterVersion": "4.3.0",
+            "AndroidSDKVersion": "6.0.2",
+            "iOSAdapterVersion": "4.3.0",
+            "iOSSDKVersion": "6.0.1",
+            "keyname": "HyprMX"
+        },
+        "InMobi": {
+            "UnityAdapterVersion": "4.3.17.3",
+            "AndroidAdapterVersion": "4.3.14",
+            "AndroidSDKVersion": "10.0.5",
+            "iOSAdapterVersion": "4.3.14",
+            "iOSSDKVersion": "10.0.5",
+            "keyname": "InMobi"
+        },
+        "Liftoff": {
+            "UnityAdapterVersion": "4.3.5.3",
+            "AndroidAdapterVersion": "4.3.4",
+            "AndroidSDKVersion": "1.9.1",
+            "iOSAdapterVersion": "4.3.2",
+            "iOSSDKVersion": "1.9.0",
+            "keyname": "Liftoff"
+        },
+        "Maio": {
+            "UnityAdapterVersion": "4.1.13.12",
+            "AndroidAdapterVersion": "4.1.10",
+            "AndroidSDKVersion": "1.1.15",
+            "iOSAdapterVersion": "4.1.10",
+            "iOSSDKVersion": "1.5.8",
+            "keyname": "Maio"
+        },
+        "Meta": {
+            "UnityAdapterVersion": "4.3.48.1",
+            "AndroidAdapterVersion": "4.3.36",
+            "AndroidSDKVersion": "6.11.0",
+            "iOSAdapterVersion": "4.3.36",
+            "iOSSDKVersion": "6.11.1",
+            "keyname": "Meta"
+        },
+        "MyTarget": {
+            "UnityAdapterVersion": "4.1.14.6",
+            "AndroidAdapterVersion": "4.1.13",
+            "AndroidSDKVersion": "5.15.0",
+            "iOSAdapterVersion": "4.1.13",
+            "iOSSDKVersion": "5.15.0",
+            "keyname": "MyTarget"
+        },
+        "Pangle": {
+          "UnityAdapterVersion": "4.3.16.1",
+          "AndroidAdapterVersion": "4.3.14",
+          "AndroidSDKVersion": "4.5.0.4",
+          "iOSAdapterVersion": "4.3.14",
+          "iOSSDKVersion": "4.3.1.9",
+          "keyname": "Pangle"
+        },
+        "Smaato": {
+            "UnityAdapterVersion": "4.3.5.3",
+            "AndroidAdapterVersion": "4.3.5",
+            "AndroidSDKVersion": "21.8.1",
+            "iOSAdapterVersion": "4.3.5",
+            "iOSSDKVersion": "21.7.4",
+            "keyname": "Smaato"
+        },
+        "Snap": {
+            "UnityAdapterVersion": "4.3.2.12",
+            "iOSAdapterVersion": "4.3.2",
+            "iOSSDKVersion": "1.1.0",
+            "keyname": "Snap"
+        },
+        "SuperAwesome": {
+            "UnityAdapterVersion": "4.1.3.8",
+            "AndroidAdapterVersion": "4.1.2",
+            "AndroidSDKVersion": "8.2.1",
+            "iOSAdapterVersion": "4.1.2",
+            "iOSSDKVersion": "8.1.1",
+            "keyname": "SuperAwesome"
+        },
+        "Tapjoy": {
+            "UnityAdapterVersion": "4.1.24.3",
+            "AndroidAdapterVersion": "4.1.20",
+            "AndroidSDKVersion": "12.9.1",
+            "iOSAdapterVersion": "4.1.19",
+            "iOSSDKVersion": "12.9.1",
+            "keyname": "Tapjoy"
+        },
+        "Tencent": {
+            "UnityAdapterVersion": "4.3.3.3",
+            "iOSAdapterVersion": "4.3.3",
+            "iOSSDKVersion": "4.13.63",
+            "keyname": "Tencent"
+        },
+        "UnityAds": {
+            "UnityAdapterVersion": "4.3.26.2",
+            "AndroidAdapterVersion": "4.3.21",
+            "AndroidSDKVersion": "4.1.0",
+            "iOSAdapterVersion": "4.3.22",
+            "iOSSDKVersion": "4.2.1",
+            "keyname": "UnityAds"
+        },
+        "Vungle": {
+            "UnityAdapterVersion": "4.3.27.2",
+            "AndroidAdapterVersion": "4.3.17",
+            "AndroidSDKVersion": "6.11.0",
+            "iOSAdapterVersion": "4.3.20",
+            "iOSSDKVersion": "6.11.0",
+            "keyname": "Vungle"
+        },
+        "Yahoo": {
+            "UnityAdapterVersion": "4.3.1.8",
+            "AndroidAdapterVersion": "4.3.0",
+            "AndroidSDKVersion": "1.14.0",
+            "iOSAdapterVersion": "4.3.1",
+            "iOSSDKVersion": "1.14.2",
+            "keyname": "Yahoo"
+        }
+    },
+    "7.2.2.1": {
+        "ironSource": {
+            "UnityAdapterVersion": "7.2.2.1",
+            "AndroidSDKVersion": "7.2.2.1",
+            "iOSSDKVersion": "7.2.2.1",
+            "keyname": "ironSource"
+        },
+        "AdColony": {
+            "UnityAdapterVersion": "4.3.17",
+            "AndroidAdapterVersion": "4.3.12",
+            "AndroidSDKVersion": "4.7.1",
+            "iOSAdapterVersion": "4.3.14",
+            "iOSSDKVersion": "4.8.0",
+            "keyname": "AdColony"
+        },
+        "AppLovin": {
+            "UnityAdapterVersion": "4.3.36",
+            "AndroidAdapterVersion": "4.3.32",
+            "AndroidSDKVersion": "11.4.2",
+            "iOSAdapterVersion": "4.3.32",
+            "iOSSDKVersion": "11.4.1",
+            "keyname": "AppLovin"
+        },
+        "Chartboost": {
+            "UnityAdapterVersion": "4.3.13.6",
+            "AndroidAdapterVersion": "4.3.8",
+            "AndroidSDKVersion": "8.3.1",
+            "iOSAdapterVersion": "4.3.10",
+            "iOSSDKVersion": "8.5.0",
+            "keyname": "Chartboost"
+        },
+        "Fyber": {
+            "UnityAdapterVersion": "4.3.29",
+            "AndroidAdapterVersion": "4.3.21",
+            "AndroidSDKVersion": "8.1.5",
+            "iOSAdapterVersion": "4.3.24",
+            "iOSSDKVersion": "8.1.5",
+            "keyname": "Fyber"
+        },
+        "Google (AdMob and Ad Manager)": {
+            "UnityAdapterVersion": "4.3.38.1",
+            "AndroidAdapterVersion": "4.3.28",
+            "AndroidSDKVersion": "20.6.0",
+            "iOSAdapterVersion": "4.3.32",
+            "iOSSDKVersion": "9.5.0",
+            "keyname": "Google (AdMob and Ad Manager)"
+        },
+        "HyprMX": {
+            "UnityAdapterVersion": "4.3.0",
+            "AndroidAdapterVersion": "4.3.0",
+            "AndroidSDKVersion": "6.0.2",
+            "iOSAdapterVersion": "4.3.0",
+            "iOSSDKVersion": "6.0.1",
+            "keyname": "HyprMX"
+        },
+        "InMobi": {
+            "UnityAdapterVersion": "4.3.17.2",
+            "AndroidAdapterVersion": "4.3.14",
+            "AndroidSDKVersion": "10.0.5",
+            "iOSAdapterVersion": "4.3.14",
+            "iOSSDKVersion": "10.0.5",
+            "keyname": "InMobi"
+        },
+        "Liftoff": {
+            "UnityAdapterVersion": "4.3.5.2",
+            "AndroidAdapterVersion": "4.3.4",
+            "AndroidSDKVersion": "1.9.1",
+            "iOSAdapterVersion": "4.3.2",
+            "iOSSDKVersion": "1.9.0",
+            "keyname": "Liftoff"
+        },
+        "Maio": {
+            "UnityAdapterVersion": "4.1.13.11",
+            "AndroidAdapterVersion": "4.1.10",
+            "AndroidSDKVersion": "1.1.15",
+            "iOSAdapterVersion": "4.1.10",
+            "iOSSDKVersion": "1.5.8",
+            "keyname": "Maio"
+        },
+        "Meta": {
+            "UnityAdapterVersion": "4.3.48",
+            "AndroidAdapterVersion": "4.3.36",
+            "AndroidSDKVersion": "6.11.0",
+            "iOSAdapterVersion": "4.3.36",
+            "iOSSDKVersion": "6.11.1",
+            "keyname": "Meta"
+        },
+        "MyTarget": {
+            "UnityAdapterVersion": "4.1.14.5",
+            "AndroidAdapterVersion": "4.1.13",
+            "AndroidSDKVersion": "5.15.0",
+            "iOSAdapterVersion": "4.1.13",
+            "iOSSDKVersion": "5.15.0",
+            "keyname": "MyTarget"
+        },
+        "Pangle": {
+          "UnityAdapterVersion": "4.3.16",
+          "AndroidAdapterVersion": "4.3.14",
+          "AndroidSDKVersion": "4.5.0.4",
+          "iOSAdapterVersion": "4.3.14",
+          "iOSSDKVersion": "4.3.1.9",
+          "keyname": "Pangle"
+        },
+        "Smaato": {
+            "UnityAdapterVersion": "4.3.5.2",
+            "AndroidAdapterVersion": "4.3.5",
+            "AndroidSDKVersion": "21.8.1",
+            "iOSAdapterVersion": "4.3.5",
+            "iOSSDKVersion": "21.7.4",
+            "keyname": "Smaato"
+        },
+        "Snap": {
+            "UnityAdapterVersion": "4.3.2.11",
+            "iOSAdapterVersion": "4.3.2",
+            "iOSSDKVersion": "1.1.0",
+            "keyname": "Snap"
+        },
+        "SuperAwesome": {
+            "UnityAdapterVersion": "4.1.3.7",
+            "AndroidAdapterVersion": "4.1.2",
+            "AndroidSDKVersion": "8.2.1",
+            "iOSAdapterVersion": "4.1.2",
+            "iOSSDKVersion": "8.1.1",
+            "keyname": "SuperAwesome",
+            "isNewProvider": "true"
+        },
+        "Tapjoy": {
+            "UnityAdapterVersion": "4.1.24.2",
+            "AndroidAdapterVersion": "4.1.20",
+            "AndroidSDKVersion": "12.9.1",
+            "iOSAdapterVersion": "4.1.19",
+            "iOSSDKVersion": "12.9.1",
+            "keyname": "Tapjoy"
+        },
+        "Tencent": {
+            "UnityAdapterVersion": "4.3.3.2",
+            "iOSAdapterVersion": "4.3.3",
+            "iOSSDKVersion": "4.13.63",
+            "keyname": "Tencent"
+        },
+        "UnityAds": {
+            "UnityAdapterVersion": "4.3.26.1",
+            "AndroidAdapterVersion": "4.3.21",
+            "AndroidSDKVersion": "4.1.0",
+            "iOSAdapterVersion": "4.3.22",
+            "iOSSDKVersion": "4.2.1",
+            "keyname": "UnityAds"
+        },
+        "Vungle": {
+            "UnityAdapterVersion": "4.3.27.1",
+            "AndroidAdapterVersion": "4.3.17",
+            "AndroidSDKVersion": "6.11.0",
+            "iOSAdapterVersion": "4.3.20",
+            "iOSSDKVersion": "6.11.0",
+            "keyname": "Vungle"
+        },
+        "Yahoo": {
+            "UnityAdapterVersion": "4.3.1.7",
+            "AndroidAdapterVersion": "4.3.0",
+            "AndroidSDKVersion": "1.14.0",
+            "iOSAdapterVersion": "4.3.1",
+            "iOSSDKVersion": "1.14.2",
+            "keyname": "Yahoo"
+        }
+    },
+    "7.2.2": {
+        "ironSource": {
+            "UnityAdapterVersion": "7.2.2",
+            "AndroidSDKVersion": "7.2.2",
+            "iOSSDKVersion": "7.2.2",
+            "keyname": "ironSource"
+        },
+        "AdColony": {
+            "UnityAdapterVersion": "4.3.16.2",
+            "AndroidAdapterVersion": "4.3.11",
+            "AndroidSDKVersion": "4.7.1",
+            "iOSAdapterVersion": "4.3.13",
+            "iOSSDKVersion": "4.8.0",
+            "keyname": "AdColony"
+        },
+        "AppLovin": {
+            "UnityAdapterVersion": "4.3.35.1",
+            "AndroidAdapterVersion": "4.3.31",
+            "AndroidSDKVersion": "11.3.3",
+            "iOSAdapterVersion": "4.3.31",
+            "iOSSDKVersion": "11.3.3",
+            "keyname": "AppLovin"
+        },
+        "Chartboost": {
+            "UnityAdapterVersion": "4.3.13.5",
+            "AndroidAdapterVersion": "4.3.8",
+            "AndroidSDKVersion": "8.3.1",
+            "iOSAdapterVersion": "4.3.10",
+            "iOSSDKVersion": "8.5.0",
+            "keyname": "Chartboost"
+        },
+        "Fyber": {
+            "UnityAdapterVersion": "4.3.27",
+            "AndroidAdapterVersion": "4.3.19",
+            "AndroidSDKVersion": "8.1.3",
+            "iOSAdapterVersion": "4.3.23",
+            "iOSSDKVersion": "8.1.5",
+            "keyname": "Fyber"
+        },
+        "Google (AdMob and Ad Manager)": {
+            "UnityAdapterVersion": "4.3.38",
+            "AndroidAdapterVersion": "4.3.28",
+            "AndroidSDKVersion": "20.6.0",
+            "iOSAdapterVersion": "4.3.32",
+            "iOSSDKVersion": "9.5.0",
+            "keyname": "Google (AdMob and Ad Manager)"
+        },
+        "HyprMX": {
+            "UnityAdapterVersion": "4.1.19.1",
+            "AndroidAdapterVersion": "4.1.11",
+            "AndroidSDKVersion": "6.0.2",
+            "iOSAdapterVersion": "4.1.12",
+            "iOSSDKVersion": "6.0.1",
+            "keyname": "HyprMX"
+        },
+        "InMobi": {
+            "UnityAdapterVersion": "4.3.17.1",
+            "AndroidAdapterVersion": "4.3.14",
+            "AndroidSDKVersion": "10.0.5",
+            "iOSAdapterVersion": "4.3.14",
+            "iOSSDKVersion": "10.0.5",
+            "keyname": "InMobi"
+        },
+        "Liftoff": {
+            "UnityAdapterVersion": "4.3.5.1",
+            "AndroidAdapterVersion": "4.3.4",
+            "AndroidSDKVersion": "1.9.1",
+            "iOSAdapterVersion": "4.3.2",
+            "iOSSDKVersion": "1.9.0",
+            "keyname": "Liftoff"
+        },
+        "Maio": {
+            "UnityAdapterVersion": "4.1.13.10",
+            "AndroidAdapterVersion": "4.1.10",
+            "AndroidSDKVersion": "1.1.15",
+            "iOSAdapterVersion": "4.1.10",
+            "iOSSDKVersion": "1.5.8",
+            "keyname": "Maio"
+        },
+        "Meta": {
+            "UnityAdapterVersion": "4.3.47",
+            "AndroidAdapterVersion": "4.3.36",
+            "AndroidSDKVersion": "6.11.0",
+            "iOSAdapterVersion": "4.3.35",
+            "iOSSDKVersion": "6.11.0",
+            "keyname": "Meta"
+        },
+        "MyTarget": {
+            "UnityAdapterVersion": "4.1.14.4",
+            "AndroidAdapterVersion": "4.1.13",
+            "AndroidSDKVersion": "5.15.0",
+            "iOSAdapterVersion": "4.1.13",
+            "iOSSDKVersion": "5.15.0",
+            "keyname": "MyTarget"
+        },
+        "Pangle": {
+            "UnityAdapterVersion": "4.3.15.1",
+            "AndroidAdapterVersion": "4.3.13",
+            "AndroidSDKVersion": "4.3.0.9",
+            "iOSAdapterVersion": "4.3.14",
+            "iOSSDKVersion": "4.3.1.9",
+            "keyname": "Pangle"
+        },
+        "Smaato": {
+            "UnityAdapterVersion": "4.3.5.1",
+            "AndroidAdapterVersion": "4.3.5",
+            "AndroidSDKVersion": "21.8.1",
+            "iOSAdapterVersion": "4.3.5",
+            "iOSSDKVersion": "21.7.4",
+            "keyname": "Smaato"
+        },
+        "Snap": {
+            "UnityAdapterVersion": "4.3.2.10",
+            "iOSAdapterVersion": "4.3.2",
+            "iOSSDKVersion": "1.1.0",
+            "keyname": "Snap"
+        },
+        "SuperAwesome": {
+            "UnityAdapterVersion": "4.1.3.6",
+            "AndroidAdapterVersion": "4.1.2",
+            "AndroidSDKVersion": "8.2.1",
+            "iOSAdapterVersion": "4.1.2",
+            "iOSSDKVersion": "8.1.1",
+            "keyname": "SuperAwesome",
+            "isNewProvider": "true"
+        },
+        "Tapjoy": {
+            "UnityAdapterVersion": "4.1.24.1",
+            "AndroidAdapterVersion": "4.1.20",
+            "AndroidSDKVersion": "12.9.1",
+            "iOSAdapterVersion": "4.1.19",
+            "iOSSDKVersion": "12.9.1",
+            "keyname": "Tapjoy"
+        },
+        "Tencent": {
+            "UnityAdapterVersion": "4.3.3.1",
+            "iOSAdapterVersion": "4.3.3",
+            "iOSSDKVersion": "4.13.63",
+            "keyname": "Tencent"
+        },
+        "UnityAds": {
+            "UnityAdapterVersion": "4.3.26",
+            "AndroidAdapterVersion": "4.3.21",
+            "AndroidSDKVersion": "4.1.0",
+            "iOSAdapterVersion": "4.3.22",
+            "iOSSDKVersion": "4.2.1",
+            "keyname": "UnityAds"
+        },
+        "Vungle": {
+            "UnityAdapterVersion": "4.3.27",
+            "AndroidAdapterVersion": "4.3.17",
+            "AndroidSDKVersion": "6.11.0",
+            "iOSAdapterVersion": "4.3.20",
+            "iOSSDKVersion": "6.11.0",
+            "keyname": "Vungle"
+        },
+        "Yahoo": {
+            "UnityAdapterVersion": "4.3.1.6",
+            "AndroidAdapterVersion": "4.3.0",
+            "AndroidSDKVersion": "1.14.0",
+            "iOSAdapterVersion": "4.3.1",
+            "iOSSDKVersion": "1.14.2",
+            "keyname": "Yahoo"
+        }
+    },
+    "JSON-version": "2e3cec5a",
+    "LatestMessage": "You've upgraded to ironSource SDK 7.2.3.1.\nLatest changes for 7.2.3.1 include:\n*Support new ad callbacks for RV, interstitial and banners, that return more data including network, segment, and A/B indication\n*ASupport new banner load success callbacks, that are sent when banners refresh\nYou can learn more: https://developers.is.com/ironsource-mobile/unity/sdk-change-log/",
+    "UpdateMessage": "ironSource SDK 7.2.3.1 is now available to download for Unity.\nYou can learn more here: https://developers.is.com/ironsource-mobile/unity/sdk-change-log/"
+    }
